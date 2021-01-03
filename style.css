@@ -1,0 +1,42 @@
+body{
+  background-color: #ffebcd;
+  border-style: outset;
+  border-bottom: 5px solid blue;
+  border-right:  5px solid blue
+}
+h1{
+  color: #5f9ea0;
+  font-size: 5rem;
+  font-family:cursive;
+}
+h2{
+  color: #5f9ea0;
+  font-size: 5rem;
+  font-family:cursive;
+}
+
+p{
+  color: red;
+  font-size: 2rem;
+  font-family: cursive;
+}
+.content{
+  text-align: center;
+}
+.container{
+    text-align: center;
+}
+footer{
+  text-align: center;
+  font-family: cursive;
+}
+.t{
+  background-color: #ffebcd;
+}
+.image{
+  border-radius: 50%;
+}
+.btn{
+  background-color: red;
+  font-size: 16px;
+}
